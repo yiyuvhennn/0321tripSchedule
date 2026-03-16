@@ -127,7 +127,7 @@ export default function MobileItineraryPage() {
               討厭無聊的行程安排和車程太久的移動。希望今天能有個愉快的約會！
             </p>
             <img
-              src="/images/陳琳.jpg"
+              src="/images/公主.jpg"
               alt="陳琳"
               style={styles.heroImage}
             />
