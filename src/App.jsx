@@ -124,7 +124,7 @@ export default function MobileItineraryPage() {
             <h2 style={styles.heroTitle}>今日乘客：33陳琳</h2>
             <p style={styles.heroText}>
               年齡20 身高158 不想談戀愛的公主，喜歡拍照自戀
-              討厭無聊的行程安排和車程太久的移動。希望今天能有個愉快的約會！
+              ，討厭無聊的行程安排和車程太久的移動。希望今天能有個愉快的約會！
             </p>
             <img
               src="/images/公主.jpg"
