@@ -6,10 +6,10 @@ export default function MobileItineraryPage() {
   const itinerary = [
     {
       time: "13:00 - 13:30",
-      title: "從苗栗縣竹南鎮接公主",
-      note: "中午先出發接公主，確認集合地點、上車時間與導航路線。",
+      title: "從苗栗縣竹南鎮接公主👸",
+      note: "中午先出發接公主👸，確認集合地點、上車時間與導航路線。",
       tag: "出發",
-      image: "/images/公主.jpg",
+      image: "/images/竹南後龍.png",
       details: [
         "先確認公主準備好再出門",
         "駕馬奔騰，前往仁德",
@@ -127,7 +127,7 @@ export default function MobileItineraryPage() {
               討厭無聊的行程安排和車程太久的移動。希望今天能有個愉快的約會！
             </p>
             <img
-              src="/images/IMG_0385.jpg"
+              src="/images/陳琳.jpg"
               alt="陳琳"
               style={styles.heroImage}
             />
