@@ -72,18 +72,6 @@ export default function MobileItineraryPage() {
         "室內 花費 1500 元"
       ],
     },
-    {
-      time: "21:00 - 21:30",
-      title: "前往台中霧峰｜轉角遇見你泡腳",
-      note: "晚餐後出發去泡腳，當作今天最後的放鬆行程。",
-      tag: "夜間",
-      image: "/images/耕讀園轉角遇見你.png",
-      details: [
-        "地址：413006臺中市霧峰區萊園路45-1號",
-        "我要繼續在車上跟你吵架！",
-        "車程：30分鐘。"
-      ],
-    },
   ];
 
   const toggleCard = (index) => {
